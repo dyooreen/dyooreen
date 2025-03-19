@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyooreen" alt="dyooreen" /></a> </p>
 
-- 🔭 I’m currently working on [E-works]([https://github.com/e-works](https://www.e-works.am/))
+- 🔭 I’m currently working on [E-works](https://www.e-works.am/)
 
 - 👨‍💻 All of my projects are available at [dyooreen.github.io](dyooreen.github.io)
 
