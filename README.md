@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-works](https://www.e-works.am/)
 
-- 👨‍💻 All of my projects are available at [dyooreen.github.io](dyooreen.github.io)
+- 👨‍💻 All of my projects are available at [dyooreen.github.io](https://dyooreen.github.io)
 
 - 💬 Ask me about **JavaScipt, Node.js**
 
